@@ -16,6 +16,7 @@ Realizar análise de dados de quatro lojas para que o cliente possa decidir qual
 
 # 📈 Relatório de Conclusão
 
+
 ## 📋 Análise do Faturamento
 
 Nesta etapa percebemos que a loja que faturou menos foi a de número 4, apresentando uma diferença de quase 10% em comparação a loja 1 que apresentou o maior faturamento.
@@ -44,7 +45,8 @@ Ainda, vemos que o maior faturamento se dá nas categorias Eletrônicos e Eletro
 
 Na média de Avaliaçao das lojas vemos que a loja 3 fica em primeiro lugar, a loja 1 tem a pior média e a loja 4 tem a segunda pior média.
 
-<img src ="/media avaliacao.jpg">
+<img src ="/media avaliacao.png">
+
 
 ## 📦 Produtos mais e menos vendidos
 
@@ -52,13 +54,18 @@ Na análise das vendas por categoria a loja 2 é a que menos vende nas categoria
 
 Em todas as quatro lojas os produtos mais vendidos estão nas categorias de Móveis e Eletrônicos, cada um chegando próximo de 500 itens por loja no período analisado.
 
-<img src = "/vendas por categoria por loja.jpg">
+<img src = "/vendas por categoria por loja.png">
+
 
 ## 📭 Frete médio por loja
 
-A loja 1 apresentou maior valor médio por frete, o que caberia uma análise futura mais detalhada sobre a logística envolvida. A loja 4 apresenta o menor custo médio de frete. 
+
+A loja 1 apresentou maior valor médio por frete, o que caberia uma análise futura mais detalhada sobre a logística envolvida. 
+A loja 4 apresenta o menor custo médio de frete. 
 
 
 # 🎯 Conclusão
 
-Sendo assim, recomendamos a venda da Loja 4 devido seu menor faturamento total em relação as outras lojas e baixa média de avaliação dos clientes.
+A loja 4 apresenta piores indicadores, destacando o faturamento total como o mais significativo deles. 
+Além disso possui baixo score nas avaliações dos clientes. 
+Sendo assim, recomendamos a venda da Loja 4 para realocação de capital.
