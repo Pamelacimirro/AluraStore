@@ -37,6 +37,8 @@ Ao analisar as vendas por categoria vemos que os destaques nas vendas são os se
 
 Ainda, vemos que o maior faturamento se dá nas categorias Eletrônicos e Eletrodomésticos. Por isso a Loja 4 tem o menor faturamento mesmo tendo sido líder em duas outras categorias.
 
+<img src="/newplot.png">
+
 
 <img src="/faturamento por categoria por loja.png">
 
@@ -55,6 +57,7 @@ Na análise das vendas por categoria a loja 2 é a que menos vende nas categoria
 Em todas as quatro lojas os produtos mais vendidos estão nas categorias de Móveis e Eletrônicos, cada um chegando próximo de 500 itens por loja no período analisado.
 
 <img src = "/vendas por categoria por loja.png">
+
 
 
 ## 📭 Frete médio por loja
